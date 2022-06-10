@@ -1,5 +1,5 @@
 # R-WEEK-3-MULTI-IP
-https://www.256businessnews.com/wp-content/uploads/2019/06/Carrefour2.jpg
+![alt text](https://www.256businessnews.com/wp-content/uploads/2019/06/Carrefour2.jpg)
 
 **PROJECT TITLE**: SUPERVISED AND UNSUPERVISED LEARNING IN DETERMINING ONLINE CONSUMER BEHAVIOUR
 **link to dimensionality reduction and feature selection**: http://rpubs.com/Gakungi/913188
