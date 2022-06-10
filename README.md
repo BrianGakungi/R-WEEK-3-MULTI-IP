@@ -1,40 +1,38 @@
 # R-WEEK-3-MULTI-IP
 ![alt text](https://www.256businessnews.com/wp-content/uploads/2019/06/Carrefour2.jpg)
 
-**PROJECT TITLE**: SUPERVISED AND UNSUPERVISED LEARNING IN DETERMINING ONLINE CONSUMER BEHAVIOUR
-**link to dimensionality reduction and feature selection**: http://rpubs.com/Gakungi/913188
-**link to association rules**: http://rpubs.com/Gakungi/913184
-**link to anomaly detection**: http://rpubs.com/Gakungi/913187
+**PROJECT TITLE**: CAREFFOUR RETAIL CHAIN SALES INCREASE STRATEGY
+**link to dimensionality reduction and feature selection notebook**: http://rpubs.com/Gakungi/913188
+**link to association rules notebook**: http://rpubs.com/Gakungi/913184
+**link to anomaly detection notebook**: http://rpubs.com/Gakungi/913187
 
 **INTRODUCTION**
-In trying to understand online customer behaviour I was tasked with analysing the data from 2 different companies i.e a Kenyan business and a Russian business by the name of Kira Plastinina. I have applied supervised learning models on the Kenyan business' data to try and understand what would drive a customer to click on an ad on its website. I have also applied unsupervised learning models on the Russian business in order to draw insights from the dataset.
+In trying to formulate a strategy to aid Carrefour in increasing its total sales inclusive of tax I was tasked with analysing datasets provided by the retail giant. I have applied dimensionality reduction, feature selection, association rules and anomaly detection on the  business' data provided by the retail giant in order to come up with a solution. I have also applied unsupervised learning models on the data in order to draw insights from the dataset.
 
 
 **APPROACH**
-To draw insights from the Kenyan business data as to what drives customers to click on ads on its website I implemented:
-a.)Univariate and Bivariate analaysis
-b.)Multiple linear regression
-c.)Decision trees
-
-To draw insights from the Russian dataset as to what drives customer behaviour I implemented:
-a.)K-Means clustering
-b.)Hierarchical clustering
-c.)DBSCAN clustering
+To draw insights from Carrefour's business data as to what strategy would best improve their total sales I implemented:
+a.)Dimensionality reduction
+b.)Feature selection
+c.)Association rules
+d.)Anomaly detection
 
 
 **DATASETS**
-The following datasets were provided:
-a.) The Kenyan business: http://bit.ly/IPAdvertisingData
-b.) Kira Plastinina: http://bit.ly/EcommerceCustomersDataset
+The following datasets were provided by the company all of which are in comma separated value(csv) format:
+a.) Dataset 1(USED FOR BOTH DIMENSIONALITY REDUCTION & FEATURE SELECTION): http://bit.ly/CarreFourDataset
+b.) Dataset 2(USED FOR ASSOCIATION RULES): http://bit.ly/SupermarketDatasetII
+c.) Dataset 3(USED FOR ANOMALY DETECTION): http://bit.ly/CarreFourSalesDataset
 
 **TECHNOLOGIES/LANGUAGES USED**
 a.) IDE - I used Rstudio version 2022.02.3+492
 b.) R programming language
+C.) R-Pubs - I published all 3 notebooks on the rpubs website
 
 **TO SET UP THE ENVIRONMENT FOR RUNNING THE PROJECT:**
 a.) Visit https://www.rstudio.com/products/rstudio/download/ to download the latest R studio software
 b.) For beginners encountering issues detailed documentation and manuals exist as to how to manouvre around R on https://www.r-project.org/about.html
-
+c.) The 3 notebooks on which the analysis was done can be reviewed on the rpubs links provided at the beginning of the readme file
 
 {Upon encountering any issues I can be reached on njagij10@gmail.com}
 
