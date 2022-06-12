@@ -12,8 +12,8 @@ In trying to formulate a strategy to aid Carrefour in increasing its total sales
 
 **APPROACH**
 To draw insights from Carrefour's business data as to what strategy would best improve their total sales I implemented:
-a.)Dimensionality reduction
-b.)Feature selection
+a.)Dimensionality reduction using Principal Component Analysis(PCA)
+b.)Feature selection using correlation coefficient and feature ranking
 c.)Association rules
 d.)Anomaly detection
 
